@@ -1,4 +1,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MsgIsJmt.MsgIsJmt" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Msg%20Is%20Jmt&textBg=false" />
 
 ## Profile
 - Name : Myoung Su Jin
@@ -52,4 +53,3 @@
 - [Python 미니프로젝트] 
 
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Msg%20Is%20Jmt&textBg=false" />
